@@ -122,8 +122,8 @@ section.success {
       #mainNav .navbar-nav li.nav-item a.nav-link:focus, #mainNav .navbar-nav li.nav-item a.nav-link:active {
         color: white; }
   #mainNav .navbar-toggler {
-    font-size: 14px;
-    padding: 11px;
+    font-size: 12px;
+    padding: 5px;
     text-transform: uppercase;
     color: white;
     border-color: white; }
